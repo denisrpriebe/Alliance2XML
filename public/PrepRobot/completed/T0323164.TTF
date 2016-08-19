@@ -1,0 +1,38 @@
+347360000800010ALAB      LINE1TCH  010000Stephanie Miller                                                      line1     0000
+347360000800020ALAB      LINE1TCH  010000150 kingswood drive                                                   line2     0000
+347360000800030ALAB      LINE1TCH  010000mankato mn 56001                                                      line3     0000
+347360001000010PJ        LINE1CSP  012000TT                                                                    Initials  0000
+347360000600001NM        LINE1CSP  012000Stephanie Miller                                                      line1     0000
+347360000700010TP        LINE1CSP  012000Stephanie                                                             line1     0000
+347360000700020TP        LINE1CSP  012000Jean                                                                  line2     0000
+347360000700030TP        LINE1CSP  012000Miller                                                                line3     0000
+34736000180000110UPTRA   LINE1CHA  014000Stephanie Miller                                                      line1     0000
+34736000190000110UPTRA   LINE1CHA  014000Keith Selle                                                           line1     0000
+34736000120000110UPTRA   LINE1CHA  014000Test Test                                                             line1     0000
+347360002100010PN        LINE1MOP  024000Brittni Johnson                                                       line1     0000
+347360002000010PN        LINE1MOP  024000Stephanie Miller                                                      line1     0000
+347360001700010PN        LINE1MOP  024000Test Test                                                             line1     0000
+347360002200010PM        LINE1TRJ  014000Brittni Johnson                                                       line1     0000
+347360002200020PM        LINE2PPT  105000J                                                                     line2     0000
+347360002300010PM        LINE1TRJ  014000Stephanie Miller                                                      line1     0000
+347360002300020PM        LINE2PPT  105000M                                                                     line2     0000
+347360001500010PM        LINE1TRJ  014000Test Test                                                             line1     0000
+347360001500020PM        LINE2PPT  105000T                                                                     line2     0000
+34736000240000110UPSWO   LINE1CHA  014000Keith Selle                                                           line1     0000
+34736000130000110UPSWO   LINE1CHA  014000Test Test                                                             line1     0000
+34736000250000110UPSWO   LINE1CHA  014000Lisa Volk                                                             line1     0000
+34736000270000110UPSWO   LINE1CHA  014000Stephanie Jean Miller                                                 line1     0000
+34736000260000110UPSWO   LINE1CHA  014000Roxann Zimprich                                                       line1     0000
+34736000140000110UPSWO   LINE1CHA  014000Test Test                                                             line1     0000
+3473600016000109531A     LINE1CHA  014000test                                                                  line1     0000
+3473600016000209531A     LINE1CHA  014000test                                                                  line2     0000
+3473600016000309531A     LINE1CHA  014000test                                                                  line3     0000
+3473600028000109531A     LINE1CHA  014000Test                                                                  line1     0000
+3473600028000209531A     LINE1CHA  014000T                                                                     line2     0000
+3473600028000309531A     LINE1CHA  014000Test                                                                  line3     0000
+3473600029000109531A     LINE1CHA  014000Test Test                                                             line1     0000
+3473600029000209531A     LINE1CHA  014000Test                                                                  line2     0000
+3473600029000309531A     LINE1CHA  014000Test                                                                  line3     0000
+347360001100010CERT      LINE1AMZ  014000Test                                                                  line1     0000
+347360003000010CERT      LINE1AMZ  014000Brittni Johnson                                                       line1     0000
+347360003100010CERT      LINE1AMZ  014000Test                                                                  line1     0000

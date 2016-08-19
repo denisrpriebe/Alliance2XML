@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<artJob>
+  <Header>
+    <hea_Jobno>3470879</hea_Jobno>
+    <hea_Line>100</hea_Line>
+    <hea_PoNo />
+    <hea_Stock>DENBC2</hea_Stock>
+    <hea_Company>NRP</hea_Company>
+    <hea_SaveTo>\\Nrpfp01\nrp prep\PrepRobot\sort\</hea_SaveTo>
+    <hea_SaveErr>\\Nrpfp01\nrp prep\PrepRobot\errors\</hea_SaveErr>
+    <hea_DueDate>20160628</hea_DueDate>
+    <hea_Quantity>250</hea_Quantity>
+    <hea_GroupQty />
+    <hea_GroupId>2209152</hea_GroupId>
+    <hea_BatchId>T0320254</hea_BatchId>
+  </Header>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Jennifer C. Hayes</artInf_Text>
+    <artInf_TextLine>1</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Partner</artInf_Text>
+    <artInf_TextLine>2</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>...</artInf_Text>
+    <artInf_TextLine>3</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>jennifer.hayes@dentons.com</artInf_Text>
+    <artInf_TextLine>4</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>D</artInf_Text>
+    <artInf_TextLine>5</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>14153564607</artInf_Text>
+    <artInf_TextLine>6</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>F</artInf_Text>
+    <artInf_TextLine>7</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>14158820300</artInf_Text>
+    <artInf_TextLine>8</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>1</artInf_Text>
+    <artInf_TextLine>9</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Oakland</artInf_Text>
+    <artInf_TextLine>10</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Dentons US LLP</artInf_Text>
+    <artInf_TextLine>11</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>1999 Harrison Street</artInf_Text>
+    <artInf_TextLine>12</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Suite 1300</artInf_Text>
+    <artInf_TextLine>13</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Oakland</artInf_Text>
+    <artInf_TextLine>14</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>CA</artInf_Text>
+    <artInf_TextLine>15</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>94612-4709 USA</artInf_Text>
+    <artInf_TextLine>16</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>dentons.com</artInf_Text>
+    <artInf_TextLine>17</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>D</artInf_Text>
+    <artInf_TextLine>18</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>14153564607</artInf_Text>
+    <artInf_TextLine>19</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>F</artInf_Text>
+    <artInf_TextLine>20</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>14152674198</artInf_Text>
+    <artInf_TextLine>21</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>1</artInf_Text>
+    <artInf_TextLine>22</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>San Francisco Spear Tower</artInf_Text>
+    <artInf_TextLine>23</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Dentons US LLP</artInf_Text>
+    <artInf_TextLine>24</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>One Market Plaza</artInf_Text>
+    <artInf_TextLine>25</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Spear Tower, 24th Floor</artInf_Text>
+    <artInf_TextLine>26</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>San Francisco</artInf_Text>
+    <artInf_TextLine>27</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>CA</artInf_Text>
+    <artInf_TextLine>28</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>94105-1101 USA</artInf_Text>
+    <artInf_TextLine>29</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artProccess>
+    <nrpOrderType>
+      <nrpOrdTyp_State>true</nrpOrdTyp_State>
+      <nrpOrdTyp_Error>0</nrpOrdTyp_Error>
+      <nrpOrdTyp_FormatId>DENBC2</nrpOrdTyp_FormatId>
+      <nrpOrdTyp_NumbUp>1</nrpOrdTyp_NumbUp>
+      <nrpOrdTyp_NumbCol />
+      <nrpOrdTyp_Output>\\nrpfp01\nrp prep\Printer Output\SMALL ABDICK 2400\</nrpOrdTyp_Output>
+    </nrpOrderType>
+    <nrpTemplate>
+      <nrpTem_State>false</nrpTem_State>
+      <nrpTem_Error>0</nrpTem_Error>
+      <nrpTem_GroupLeavel>Single</nrpTem_GroupLeavel>
+      <nrpTem_TemplateId>\\Nrpfp01\nrp prep\PrepRobot\templates\DENBC2.indt</nrpTem_TemplateId>
+    </nrpTemplate>
+    <orderBlank>
+      <ordBla_State>false</ordBla_State>
+      <ordBla_Error>0</ordBla_Error>
+      <ordBla_Printer>Lexmark Red Paper</ordBla_Printer>
+      <ordBla_GroupLeavel>NoTemplate</ordBla_GroupLeavel>
+      <ordBla_DateEnt>20160623</ordBla_DateEnt>
+      <ordBla_DateStamp />
+      <ordBla_TimeStamp />
+      <ordBla_CustNo>BCDEN01</ordBla_CustNo>
+      <ordBla_CustName>JENNIFER HAYES</ordBla_CustName>
+      <ordBla_Addr1>DENTONS US LLP</ordBla_Addr1>
+      <ordBla_Addr2>1999 HARRISON STREET</ordBla_Addr2>
+      <ordBla_Addr3>SUITE 1300</ordBla_Addr3>
+      <ordBla_Addr4>OAKLAND, CA 94612</ordBla_Addr4>
+      <ordBla_Addr5>US</ordBla_Addr5>
+      <ordBla_Addr6 />
+      <ordBla_UserId />
+      <ordBla_CustPO>16538218</ordBla_CustPO>
+      <ordBla_UnitOfMeas>65382</ordBla_UnitOfMeas>
+      <ordBla_Disc>BC DUAL SIDED</ordBla_Disc>
+      <ordBla_SpecInst1 />
+      <ordBla_SpecInst2 />
+      <ordBla_SpecInst3 />
+      <ordBla_SpecInst4 />
+      <ordBla_SpecInst5 />
+      <ordBla_SpecInst6 />
+      <ordBla_ShipInst />
+      <ordBla_ShipAcctNo>N</ordBla_ShipAcctNo>
+      <ordBla_CarrierDisc>NEXTDAY-AIRSAVER DEL</ordBla_CarrierDisc>
+      <ordBla_OrderType>N</ordBla_OrderType>
+      <ordBla_Carrier />
+      <ordBla_RepDept />
+      <ordBla_RepDeptDisc />
+      <ordBla_RepReason />
+      <ordBla_RepDisc1 />
+      <ordBla_RepDisc2 />
+      <ordBla_RepDisc3 />
+      <ordBla_RepDisc4 />
+      <ordBla_RepId />
+      <ordBla_RepName />
+      <ordBla_BillTo1>DENTONS US LLP</ordBla_BillTo1>
+      <ordBla_BillTo2>233 S WACKER DRIVE  STE 5900</ordBla_BillTo2>
+      <ordBla_BillTo3>ATTN IRIS HARRIS    MKH</ordBla_BillTo3>
+      <ordBla_BillTo4>CHICAGO, IL 60606-6361</ordBla_BillTo4>
+      <ordBla_BillTo5 />
+      <ordBla_BillTo6 />
+      <ordBla_SendTo />
+    </orderBlank>
+    <allianceResponse>
+      <allRes_State>true</allRes_State>
+      <allRes_Error>0</allRes_Error>
+      <allRes_Tracking>2209153</allRes_Tracking>
+      <allRes_TypsetDate>20160623</allRes_TypsetDate>
+      <allRes_TypsetTime>112106</allRes_TypsetTime>
+      <allRes_TypsetMethod>P</allRes_TypsetMethod>
+      <allRes_PlateId>2209152</allRes_PlateId>
+      <allRes_PlatePosition>0</allRes_PlatePosition>
+      <allRes_PrintDate>20160623</allRes_PrintDate>
+      <allRea_PrintTime>112106</allRea_PrintTime>
+      <allRes_ShippmentBoxNumb />
+    </allianceResponse>
+  </artProccess>
+</artJob>

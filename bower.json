@@ -1,0 +1,32 @@
+{
+    "name": "Alliance2XML",
+    "description": "",
+    "keywords": [
+        "Alliance",
+        "XML"
+    ],
+    "homepage": "https://github.com/denisrpriebe/Template",
+    "license": "MIT",
+    "authors": [
+        "Denis Priebe <denisrpriebe@gmail.com>"
+    ],
+    "main": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "2.2.4",
+        "bootstrap": "3.3.7",        
+        "animsition": "^4.0.2",
+        "datatables.net-bs": "1.10.11",
+        "datatables.net-buttons-bs": "1.1.2",
+        "timer.jquery": "0.6.3"
+    },
+    "resolutions": {
+        "jquery": "2.2.4"
+    }
+}

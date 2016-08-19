@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<artJob>
+  <Header>
+    <hea_Jobno>3470881</hea_Jobno>
+    <hea_Line>100</hea_Line>
+    <hea_PoNo />
+    <hea_Stock>SCGP1BK</hea_Stock>
+    <hea_Company>NRP</hea_Company>
+    <hea_SaveTo>\\Nrpfp01\nrp prep\PrepRobot\sort\</hea_SaveTo>
+    <hea_SaveErr>\\Nrpfp01\nrp prep\PrepRobot\errors\</hea_SaveErr>
+    <hea_DueDate>20160627</hea_DueDate>
+    <hea_Quantity>1</hea_Quantity>
+    <hea_GroupQty />
+    <hea_GroupId>2209148</hea_GroupId>
+    <hea_BatchId>T0320250</hea_BatchId>
+  </Header>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>Rebecca Jo Page</artInf_Text>
+    <artInf_TextLine>1</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>2016</artInf_Text>
+    <artInf_TextLine>2</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>5'0 to 5'2</artInf_Text>
+    <artInf_TextLine>3</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artInfo>
+    <artInf_Path />
+    <artInf_Location>1</artInf_Location>
+    <artInf_Text>200</artInf_Text>
+    <artInf_TextLine>4</artInf_TextLine>
+    <artInf_PointSize>14</artInf_PointSize>
+    <artInf_Alingment>center</artInf_Alingment>
+    <artInf_InkColor>BLACK</artInf_InkColor>
+    <artInf_FontCode>CHA</artInf_FontCode>
+    <artInf_Font>ZapfChancery LT</artInf_Font>
+    <artInf_Roman>ZapfChancery LT</artInf_Roman>
+  </artInfo>
+  <artProccess>
+    <nrpOrderType>
+      <nrpOrdTyp_State>true</nrpOrdTyp_State>
+      <nrpOrdTyp_Error>0</nrpOrdTyp_Error>
+      <nrpOrdTyp_FormatId>RASM</nrpOrdTyp_FormatId>
+      <nrpOrdTyp_NumbUp>1</nrpOrdTyp_NumbUp>
+      <nrpOrdTyp_NumbCol />
+      <nrpOrdTyp_Output />
+    </nrpOrderType>
+    <nrpTemplate>
+      <nrpTem_State>false</nrpTem_State>
+      <nrpTem_Error>0</nrpTem_Error>
+      <nrpTem_GroupLeavel>Single</nrpTem_GroupLeavel>
+      <nrpTem_TemplateId>\\Nrpfp01\nrp prep\PrepRobot\templates\RASM.indt</nrpTem_TemplateId>
+    </nrpTemplate>
+    <orderBlank>
+      <ordBla_State>false</ordBla_State>
+      <ordBla_Error>0</ordBla_Error>
+      <ordBla_Printer>Lexmark Red Paper</ordBla_Printer>
+      <ordBla_GroupLeavel>NoTemplate</ordBla_GroupLeavel>
+      <ordBla_DateEnt>20160623</ordBla_DateEnt>
+      <ordBla_DateStamp />
+      <ordBla_TimeStamp />
+      <ordBla_CustNo>00009125</ordBla_CustNo>
+      <ordBla_CustName />
+      <ordBla_Addr1>REBECCA PAGE</ordBla_Addr1>
+      <ordBla_Addr2>3450 PALENCIA DR</ordBla_Addr2>
+      <ordBla_Addr3>1116</ordBla_Addr3>
+      <ordBla_Addr4>TAMPA, FL 33618</ordBla_Addr4>
+      <ordBla_Addr5>US</ordBla_Addr5>
+      <ordBla_Addr6 />
+      <ordBla_UserId />
+      <ordBla_CustPO>RASM09049</ordBla_CustPO>
+      <ordBla_UnitOfMeas>ASM09</ordBla_UnitOfMeas>
+      <ordBla_Disc>PLUS 1 C&amp;G PRIDE BLACK</ordBla_Disc>
+      <ordBla_SpecInst1 />
+      <ordBla_SpecInst2 />
+      <ordBla_SpecInst3 />
+      <ordBla_SpecInst4 />
+      <ordBla_SpecInst5 />
+      <ordBla_SpecInst6 />
+      <ordBla_ShipInst />
+      <ordBla_ShipAcctNo>N</ordBla_ShipAcctNo>
+      <ordBla_CarrierDisc>UPS SUREPOST 1 LB OR</ordBla_CarrierDisc>
+      <ordBla_OrderType>N</ordBla_OrderType>
+      <ordBla_Carrier />
+      <ordBla_RepDept />
+      <ordBla_RepDeptDisc />
+      <ordBla_RepReason />
+      <ordBla_RepDisc1 />
+      <ordBla_RepDisc2 />
+      <ordBla_RepDisc3 />
+      <ordBla_RepDisc4 />
+      <ordBla_RepId>12500</ordBla_RepId>
+      <ordBla_RepName>WENDY ATHERTON</ordBla_RepName>
+      <ordBla_BillTo1>NRP GRADUATION SERVICES</ordBla_BillTo1>
+      <ordBla_BillTo2>150 KINGSWOOD RD</ordBla_BillTo2>
+      <ordBla_BillTo3>MANKATO, MN 56001</ordBla_BillTo3>
+      <ordBla_BillTo4>US</ordBla_BillTo4>
+      <ordBla_BillTo5 />
+      <ordBla_BillTo6 />
+      <ordBla_SendTo />
+    </orderBlank>
+    <allianceResponse>
+      <allRes_State>true</allRes_State>
+      <allRes_Error>0</allRes_Error>
+      <allRes_Tracking>2209149</allRes_Tracking>
+      <allRes_TypsetDate>20160623</allRes_TypsetDate>
+      <allRes_TypsetTime>111406</allRes_TypsetTime>
+      <allRes_TypsetMethod>P</allRes_TypsetMethod>
+      <allRes_PlateId>2209148</allRes_PlateId>
+      <allRes_PlatePosition>0</allRes_PlatePosition>
+      <allRes_PrintDate>20160623</allRes_PrintDate>
+      <allRea_PrintTime>111406</allRea_PrintTime>
+      <allRes_ShippmentBoxNumb />
+    </allianceResponse>
+  </artProccess>
+</artJob>

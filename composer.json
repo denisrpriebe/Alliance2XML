@@ -1,0 +1,27 @@
+{
+    "name": "denisrpriebe/template",
+    "description": "A Smarty PHP Web Framework.",
+    "type": "library",
+    "homepage": "https://github.com/denisrpriebe/Template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Priebe",
+            "email": "denisrpriebe@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.4",
+        "smarty/smarty": "3.1.29",
+        "nesbot/carbon": "~1.21",
+        "phpmailer/phpmailer": "^5.2",
+        "respect/validation": "^0.9.8",
+        "illuminate/database": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}

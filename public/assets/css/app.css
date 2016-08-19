@@ -1,0 +1,349 @@
+body {
+    background: url('../images/background-blue-5.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.table {
+    background-color: #ffffff;
+    border-radius: 4px;
+}
+
+.equal-table {
+    table-layout: fixed;
+}
+
+/*
+ |--------------------------------------------------------------------------
+ | Bootstrap Overrides
+ |--------------------------------------------------------------------------
+ |
+ | Override any default bootstrap styles here.
+ |
+*/
+.panel {
+    background-color: rgba(255, 255, 255, .65);
+}
+.navbar {
+    -webkit-box-shadow: 0 6px 15px -4px rgba(0,0,0,.375);
+    -moz-box-shadow: 0 6px 15px -4px rgba(0,0,0,.375);
+    box-shadow: 0 6px 15px -4px rgba(0,0,0,.375);
+
+}
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    padding: 0px 22px 0px 0px;
+}
+.navbar-brand > img {
+    padding: 7px 10px;
+    width: 50px;
+}
+.navbar-brand {
+    padding-left: 8px;
+}
+.alert, .jumbotron, .panel {
+    -webkit-box-shadow: 3px 3px 20px -5px rgba(64,64,64,0.75);
+    -moz-box-shadow: 3px 3px 20px -5px rgba(64,64,64,0.75);
+    box-shadow: 3px 3px 20px -5px rgba(64,64,64,0.75);
+}
+.modal-footer {
+    text-align: center;
+}
+.jumbotron {
+    background-color: rgba(238, 238, 238, .65);
+}
+
+/*
+ |--------------------------------------------------------------------------
+ | Un-Authenticated Pages
+ |--------------------------------------------------------------------------
+ |
+ | Any styles that need to be applied before a user is logged in can be
+ | added here.
+ |
+*/
+.login-container {
+    width: 300px;
+    height: 320px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+
+}
+.login-panel-body {
+    padding: 15px 15px 4px 15px;
+}
+.centered-container {
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+.text-x-small {
+    font-size: x-small;
+}
+.forgot-password {
+    padding: 5px 0px 5px 0px;
+}
+
+/*
+ |--------------------------------------------------------------------------
+ | Authenticated Pages
+ |--------------------------------------------------------------------------
+ |
+ | Any styles that need to be applied after a user is logged in can be
+ | added here.
+ |
+*/
+.login-btn-home {
+    margin: 30px 0px 15px 0px;
+}
+.ajax-alert {
+    display: none;
+}
+.clear-nav {
+    margin-top: 70px;
+}
+.logout-btn {
+    margin-bottom: 15px;
+}
+
+/*
+ |--------------------------------------------------------------------------
+ | Page Loading
+ |--------------------------------------------------------------------------
+ |
+ | Page loading keyframes are configured here.
+ | http://loading.io/
+ |
+*/
+@-webkit-keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@-moz-keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@-ms-keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@-moz-keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@-o-keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes uil-rolling-anim {
+    0% {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+.uil-rolling-css {
+    width: 200px;
+    height: 200px;
+}
+.uil-rolling-css > div {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    -ms-animation: uil-rolling-anim 2s linear infinite;
+    -moz-animation: uil-rolling-anim 2s linear infinite;
+    -webkit-animation: uil-rolling-anim 2s linear infinite;
+    -o-animation: uil-rolling-anim 2s linear infinite;
+    animation: uil-rolling-anim 2s linear infinite;
+}
+.uil-rolling-css > div div {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    border-radius: 1000px 1000px 0 0;
+    border-color: #cec9c9;
+    border-style: solid;
+    border-width: 20px;
+    border-bottom-width: 0;
+}
+.uil-rolling-css > div div:nth-of-type(2) {
+    -ms-transform: translate(0, 50px) rotate(45deg) translate(0, -50px);
+    -moz-transform: translate(0, 50px) rotate(45deg) translate(0, -50px);
+    -webkit-transform: translate(0, 50px) rotate(45deg) translate(0, -50px);
+    -o-transform: translate(0, 50px) rotate(45deg) translate(0, -50px);
+    transform: translate(0, 50px) rotate(45deg) translate(0, -50px);
+}
