@@ -23,7 +23,7 @@ class TtfFile extends OrderblankFile {
             'part13' => htmlspecialchars(trim(substr($line, 115, 6)), ENT_NOQUOTES, 'UTF-8'),                       // 1 -- from line1
             'part14' => (int) htmlspecialchars(trim(substr($line, 35, 3)), ENT_NOQUOTES, 'UTF-8'),                  // 14
             'part15' => (int) htmlspecialchars(trim(substr($line, 35, 3)), ENT_NOQUOTES, 'UTF-8'),                  // 14
-            'part16' => (int) htmlspecialchars(trim(substr($line, 8, 4)), ENT_NOQUOTES, 'UTF-8'),                   // 100
+            'part16' => (int) htmlspecialchars(trim(substr($line, 7, 5)), ENT_NOQUOTES, 'UTF-8'),                   // 100
         ]);
     }
 

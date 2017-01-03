@@ -40,7 +40,7 @@ class ObFile extends OrderblankFile {
             'part30' => htmlspecialchars(trim(substr($line, 774, 20)), ENT_NOQUOTES, 'UTF-8'),  // UPS GROUND
             'part31' => htmlspecialchars(trim(substr($line, 1140, 5)), ENT_NOQUOTES, 'UTF-8'),  // 12500
             'part32' => htmlspecialchars(trim(substr($line, 1145, 35)), ENT_NOQUOTES, 'UTF-8'), // WENDY ATHERTON
-            'part33' => (int) htmlspecialchars(trim(substr($line, 8, 4)), ENT_NOQUOTES, 'UTF-8'),     // 100
+            'part33' => (int) htmlspecialchars(trim(substr($line, 7, 5)), ENT_NOQUOTES, 'UTF-8'),     // 100
         ]);
     }
 

@@ -294,7 +294,7 @@ class XmlFile {
     }
 
     public function save($saveDirectory) {
-        $saveFileName = date("Ymd") . rand(1000000000, 9999999999) . $this->xml['Header']['hea_Jobno'] . '_' . $this->xml['Header']['hea_Line'] . '.xml';
+        $saveFileName = date("Ymd") . time() . $this->xml['Header']['hea_Jobno'] . '_' . $this->xml['Header']['hea_Line'] . '.xml';
         $this->toXml($saveDirectory . '/' . $saveFileName);
     }
 
